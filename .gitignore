@@ -1,0 +1,20 @@
+# Visual Studio files
+.vs/
+[Bb]in/
+[Oo]bj/
+[Xx]64/
+[Xx]86/
+*.exe
+*.pdb
+*.ilk
+
+# Temp & Cache
+*.log
+*.tmp
+logs/
+cache/
+
+# User configs
+settings.json
+config.ini
+profiles/
